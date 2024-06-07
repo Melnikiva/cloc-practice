@@ -1,0 +1,6 @@
+All lines: 42411
+Empty lines: 10211
+Comment lines: 1549
+Comment rate: 0.0365
+Code lines: 30651
+Files skipped: 32
